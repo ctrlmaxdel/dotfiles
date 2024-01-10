@@ -1,5 +1,5 @@
 import = [
-  "/Users/mschneider/.config/alacritty/themes/catppuccin-macchiato.toml",
+  "~/.config/alacritty/themes/catppuccin-macchiato.toml",
 ]
 
 live_config_reload = true
@@ -225,7 +225,6 @@ history = 10000
 [shell]
 args = ["--login"]
 program = "/bin/zsh"
-
 
 [window]
 decorations = "buttonless"
